@@ -1,8 +1,7 @@
 # 💰 Financial Performance Dashboard (Tableau)
 
 This project presents an interactive **Financial Performance Dashboard** built using **Tableau Desktop**, aimed at visualizing and analyzing key financial metrics such as **sales**, **profit**, **COGS**, and **discounts** across **countries**, **products**, and **time**.
-
-https://sdmntprcentralus.oaiusercontent.com/files/00000000-c0e4-61f5-b498-bb6f12142b59/raw?se=2025-07-24T12%3A41%3A23Z&sp=r&sv=2024-08-04&sr=b&scid=31e02994-0663-50af-a828-faa78487f7a0&skoid=e9d2f8b1-028a-4cff-8eb1-d0e66fbefcca&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-07-23T19%3A46%3A59Z&ske=2025-07-24T19%3A46%3A59Z&sks=b&skv=2024-08-04&sig=NMLijSJ3rJPQOdYLcosUdkEpWuo2nt5r/IJJ3WxR3z4%3D
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/810f6b3d-c428-4ea2-a18c-3284a47b1458" />
 
 ---
 

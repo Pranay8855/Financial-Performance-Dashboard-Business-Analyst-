@@ -97,12 +97,3 @@ financial-performance-dashboard/
 - Discount strategy effectiveness is visualized through scatter plots and heat maps.
 
 ---
-
-## 🧩 Future Improvements
-
-- Add YoY growth metrics and profit forecasting
-- Use parameters to switch between different KPIs dynamically
-- Combine with live data from Google Sheets or a database source
-- Publish to Tableau Public with embedded interactions
-
---
